@@ -1,0 +1,37 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "status": "ok",
+      "name": "Mr John site",
+      "maps": {
+        "lat": 34.54345,
+        "lng": -95
+      },
+      "valueWater": 4536,
+      "valueOil": 234.54
+    },
+    {
+      "id": 2,
+      "status": "warning",
+      "name": "Mr John site2",
+      "maps": {
+        "lat": 36.54345,
+        "lng": -92
+      },
+      "valueWater": 336,
+      "valueOil": 223.54
+    },
+    {
+      "id": 3,
+      "status": "error",
+      "name": "Mr Bill site",
+      "maps": {
+        "lat": 32.54345,
+        "lng": -95
+      },
+      "valueWater": 436,
+      "valueOil": 23.54
+    }
+  ]
+}
