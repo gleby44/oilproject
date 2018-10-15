@@ -1,0 +1,14 @@
+{
+  "id": 3,
+  "status": "error",
+  "logs": [
+    {
+      "time": 14.15,
+      "log": "Some logs information detected"
+    },
+    {
+      "time": 15.45,
+      "log": "Pump has been destroyed"
+    }
+  ]
+}
