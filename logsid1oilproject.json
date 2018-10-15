@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "status": "ok",
+  "logs": [
+    {
+      "time": 14.15,
+      "log": "Some logs information detected"
+    },
+    {
+      "time": 15.45,
+      "log": "Some logs information detected 22"
+    }
+    {
+      "time": 16.45,
+      "log": "Some logs information detected 22234"
+    }
+    {
+      "time": 17.45,
+      "log": "Some logs information detected 2342"
+    }
+  ]
+}
