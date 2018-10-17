@@ -1,22 +1,125 @@
 {
   "id": 1,
-  "status": "ok",
   "logs": [
     {
-      "time": 14.15,
-      "log": "Some logs information detected"
+      "Severity": "High ",
+      "time": "10/16/2018 2:00PM",
+      "Source": "Richland.Homann1.Pump1",
+      "Message": "Stopped"
     },
     {
-      "time": 15.45,
-      "log": "Some logs information detected 22"
+      "Severity": "High ",
+      "time": "10/16/2018 2:00PM",
+      "Source": "Richland.Homann1.Pump1",
+      "Message": "Stopped"
     },
     {
-      "time": 16.45,
-      "log": "Some logs information detected 22234"
+      "Severity": "High ",
+      "time": "10/16/2018 2:00PM",
+      "Source": "Richland.Homann1.Pump1",
+      "Message": "Stopped"
     },
     {
-      "time": 17.45,
-      "log": "Some logs information detected 2342"
+      "Severity": "Medium",
+      "time": "10/16/2018 3:00PM",
+      "Source": "Richland.PJLea.WestTank",
+      "Message": "Over Flow"
+    },
+    {
+      "Severity": "Medium",
+      "time": "10/16/2018 3:00PM",
+      "Source": "Richland.PJLea.WestTank",
+      "Message": "Over Flow"
+    },
+    {
+      "Severity": "Medium",
+      "time": "10/16/2018 3:00PM",
+      "Source": "Richland.PJLea.WestTank",
+      "Message": "Over Flow"
+    },
+    {
+      "Severity": "Medium",
+      "time": "10/16/2018 3:00PM",
+      "Source": "Richland.PJLea.WestTank",
+      "Message": "Over Flow"
+    },
+    {
+      "Severity": "Medium",
+      "time": "10/16/2018 3:00PM",
+      "Source": "Richland.PJLea.WestTank",
+      "Message": "Over Flow"
+    },
+    {
+      "Severity": "High",
+      "time": "10/17/2018 4:00PM",
+      "Source": "Trinity.Object21.Tank",
+      "Message": "State changed from LL to HH"
+    },
+    {
+      "Severity": "High",
+      "time": "10/17/2018 4:00PM",
+      "Source": "Trinity.Object21.Tank",
+      "Message": "State changed from LL to HH"
+    },
+    {
+      "Severity": "Normal",
+      "time": "10/16/2018 2:00PM",
+      "Source": " Trinity.Object20.Pump1",
+      "Message": " Run"
+    },
+    {
+      "Severity": "Normal",
+      "time": "10/16/2018 2:00PM",
+      "Source": " Trinity.Object20.Pump1",
+      "Message": " Run"
+    },
+    {
+      "Severity": "Normal",
+      "time": "10/16/2018 2:00PM",
+      "Source": " Trinity.Object20.Pump1",
+      "Message": " Run"
+    },
+    {
+      "Severity": "Normal",
+      "time": "10/16/2018 2:00PM",
+      "Source": " Trinity.Object20.Pump1",
+      "Message": " Run"
+    },
+    {
+      "Severity": "Low",
+      "time": "10/16/2018 2:00PM",
+      "Source": "  Louise.Object19.EastTank",
+      "Message": " State changed from LL to HH"
+    },
+    {
+      "Severity": "High",
+      "time": "10/16/2018 2:00PM",
+      "Source": "  Louise.Object17.Pump1",
+      "Message": " Stopped"
+    },
+    {
+      "Severity": "High",
+      "time": "10/16/2018 2:00PM",
+      "Source": "  Louise.Object17.Pump1",
+      "Message": " Stopped"
+    },
+    {
+      "Severity": "High",
+      "time": "10/16/2018 2:00PM",
+      "Source": "  Louise.Object17.Pump1",
+      "Message": " Stopped"
+    },
+    {
+      "Severity": "High",
+      "time": "10/16/2018 2:00PM",
+      "Source": "   Richland.Homann1.Pump1",
+      "Message": " Stopped"
+    },
+    {
+      "Severity": "High",
+      "time": "10/16/2018 2:00PM",
+      "Source": "   Richland.Homann1.Pump1",
+      "Message": " Stopped"
     }
   ]
 }
