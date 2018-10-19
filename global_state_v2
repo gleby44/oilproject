@@ -3,103 +3,125 @@
     "dayData": {
       "0.00": [
         23,
-        25
+        25,
+        15
       ],
       "": [
         43,
-        56
+        56,
+        34
       ],
       "3.00": [
         68,
-        76
+        76,
+        42
       ],
       "6.00": [
         78,
-        92
+        92,
+        67
       ],
       "9.00": [
         82,
-        110
+        110,
+        79
       ],
       "12.00": [
         86,
-        123
+        123,
+        102
       ],
       "15.00": [
         92,
-        129
+        129,
+        115
       ],
       "17.00": [
         98,
-        140
+        140,
+        121
       ],
       "20.00": [
         109,
-        145
+        145,
+        137
       ],
       "23.00": [
         120,
-        148
+        148,
+        159
       ]
     },
     "data": "30.09",
     "value": "123",
-    "value_water": "150"
+    "value_water": "150",
+    "value_gas": "170"
   },
   {
     "data": "29.09",
     "value": "78",
-    "value_water": "158"
+    "value_water": "158",
+    "value_gas": "132"
   },
   {
     "data": "28.09",
     "value": "98",
-    "value_water": "164"
+    "value_water": "164",
+    "value_gas": "178"
   },
   {
     "data": "27.09",
     "value": "145",
-    "value_water": "175"
+    "value_water": "175",
+    "value_gas": "112"
   },
   {
     "data": "26.09",
     "value": "34",
-    "value_water": "140"
+    "value_water": "140",
+    "value_gas": "179"
   },
   {
     "data": "25.09",
     "value": "67",
-    "value_water": "123"
+    "value_water": "123",
+    "value_gas": "143"
   },
   {
     "data": "24.09",
     "value": "69",
-    "value_water": "163"
+    "value_water": "163",
+    "value_gas": "153"
   },
   {
     "data": "23.09",
     "value": "132",
-    "value_water": "169"
+    "value_water": "169",
+    "value_gas": "145"
   },
   {
     "data": "22.09",
     "value": "43",
-    "value_water": "198"
+    "value_water": "198",
+    "value_gas": "215"
   },
   {
     "data": "21.09",
     "value": "57",
-    "value_water": "201"
+    "value_water": "201",
+    "value_gas": "172"
   },
   {
     "data": "20.09",
     "value": "78",
-    "value_water": "197"
+    "value_water": "197",
+    "value_gas": "121"
   },
   {
     "data": "19.09",
     "value": "12",
-    "value_water": "167"
+    "value_water": "167",
+    "value_gas": "143"
   },
   {
     "data": "18.09",
@@ -109,86 +131,103 @@
   {
     "data": "17.09",
     "value": "100",
-    "value_water": "179"
+    "value_water": "179",
+    "value_gas": "153"
   },
   {
     "data": "16.09",
     "value": "59",
-    "value_water": "191"
+    "value_water": "191",
+    "value_gas": "152"
   },
   {
     "data": "15.09",
     "value": "81",
-    "value_water": "111"
+    "value_water": "111",
+    "value_gas": "132"
   },
   {
     "data": "14.09",
     "value": "57",
-    "value_water": "133"
+    "value_water": "133",
+    "value_gas": "156"
   },
   {
     "data": "13.09",
     "value": "42",
-    "value_water": "141"
+    "value_water": "141",
+    "value_gas": "171"
   },
   {
     "data": "12.09",
     "value": "78",
-    "value_water": "143"
+    "value_water": "143",
+    "value_gas": "139"
   },
   {
     "data": "11.09",
     "value": "32",
-    "value_water": "128"
+    "value_water": "128",
+    "value_gas": "191"
   },
   {
     "data": "10.09",
     "value": "75",
-    "value_water": "131"
+    "value_water": "131",
+    "value_gas": "153"
   },
   {
     "data": "09.09",
     "value": "39",
-    "value_water": "89"
+    "value_water": "89",
+    "value_gas": "129"
   },
   {
     "data": "08.09",
     "value": "43",
-    "value_water": "92"
+    "value_water": "92",
+    "value_gas": "111"
   },
   {
     "data": "07.09",
     "value": "32",
-    "value_water": "112"
+    "value_water": "112",
+    "value_gas": "132"
   },
   {
     "data": "06.09",
     "value": "32",
-    "value_water": "137"
+    "value_water": "137",
+    "value_gas": "163"
   },
   {
     "data": "05.09",
     "value": "63",
-    "value_water": "162"
+    "value_water": "162",
+    "value_gas": "141"
   },
   {
     "data": "04.09",
     "value": "39",
-    "value_water": "170"
+    "value_water": "170",
+    "value_gas": "123"
   },
   {
     "data": "03.09",
     "value": "96",
-    "value_water": "179"
+    "value_water": "179",
+    "value_gas": "156"
   },
   {
     "data": "02.09",
     "value": "16",
-    "value_water": "183"
+    "value_water": "183",
+    "value_gas": "134"
   },
   {
     "data": "01.09",
     "value": "33",
-    "value_water": "191"
+    "value_water": "191",
+    "value_gas": "81"
   }
 ]
