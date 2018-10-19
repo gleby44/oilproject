@@ -9,7 +9,8 @@
         "lng": -95
       },
       "valueWater": 4536,
-      "valueOil": 234.54
+      "valueOil": 234.54,
+      "valueGas": 145.34
     },
     {
       "id": 2,
@@ -20,7 +21,8 @@
         "lng": -92
       },
       "valueWater": 336,
-      "valueOil": 223.54
+      "valueOil": 223.54,
+      "valueGas": 175
     },
     {
       "id": 3,
@@ -31,7 +33,8 @@
         "lng": -95
       },
       "valueWater": 436,
-      "valueOil": 23.54
+      "valueOil": 23.54,
+      "valueGas": 151.44
     }
   ]
 }
