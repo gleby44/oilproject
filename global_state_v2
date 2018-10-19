@@ -126,7 +126,8 @@
   {
     "data": "18.09",
     "value": "64",
-    "value_water": "175"
+    "value_water": "175",
+    "value_gas": "153"
   },
   {
     "data": "17.09",
