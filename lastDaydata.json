@@ -12,13 +12,13 @@
     "value_gas": "42"
   },
   {
-    "data": "6:00",
+    "data": "06:00",
     "value": "43",
     "value_water": "29",
     "value_gas": "67"
   },
   {
-    "data": "9:00",
+    "data": "09:00",
     "value": "72",
     "value_water": "45",
     "value_gas": "81"
