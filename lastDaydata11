@@ -1,42 +1,42 @@
 [
   {
-    "data": "00:00:00+00:00",
+    "data": "00:00:00",
     "value": "0",
     "value_water": "2",
     "value_gas": "3"
   },
   {
-    "data": "03:00:00+00:00",
+    "data": "03:00:00",
     "value": "21",
     "value_water": "13",
     "value_gas": "42"
   },
   {
-    "data": "06:00:00+00:00",
+    "data": "06:00:00",
     "value": "43",
     "value_water": "29",
     "value_gas": "67"
   },
   {
-    "data": "09:00:00+00:00",
+    "data": "09:00:00",
     "value": "72",
     "value_water": "45",
     "value_gas": "81"
   },
   {
-    "data": "12:00:00+00:00",
+    "data": "12:00:00",
     "value": "81",
     "value_water": "71",
     "value_gas": "99"
   },
   {
-    "data": "15:00:00+00:00",
+    "data": "15:00:00",
     "value": "91",
     "value_water": "80",
     "value_gas": "103"
   },
   {
-    "data": "18:01:21+00:00",
+    "data": "18:01:21",
     "value": "103",
     "value_water": "100",
     "value_gas": "121"
